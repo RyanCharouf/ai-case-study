@@ -64,4 +64,10 @@
 
 * AI Assistants leverage advanced AI technologies including Natural Language Processing, Machine Learning, and Large Language Models.
 
-* For the AI Assistants to be the most accurate and efficient, they need the technologies to do that. 
+* For the AI Assistants to be the most accurate and efficient, they need the technologies to do that.
+
+
+## Work Cited 
+- https://www.vicarious.com/
+- https://growjo.com/company/Vicarious_AI
+- https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/future-ai-vicarious-ceo-scott-phoenix/
