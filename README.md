@@ -1,49 +1,67 @@
-# TITLE
+# AI Case Study
 
 ## Overview and Origin
 
-* Name of company
+* Vicarious
 
-* When was the company incorporated?
+* Vicarious was incorporated in 2010. 
 
-* Who are the founders of the company?
+* The founders of Vicarious are Dileep George & Scott Phoenix.
 
-* How did the idea for the company (or project) come about?
+* Vicarious wants to be at the forfront of Ai, especially with robots as a service (RaaS). They knew that AI was going to be the "next big thing" and wanted to be apart of it and while humans can use AI and benefit from it very much, they want to make robots have the same behaviors as humans do.  
 
-* How is the company funded? How much funding have they received?
+* Vicarious is backed by over $250M from investors like Jeff Bezos, Elon Musk, Mark Zuckerberg, and Samsung. 
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* I wouldn't say that Vicarious in trying to solve an issue but enhancing a lot of modern day tasks like:
+- Kitting
+- Palletizing
+- Packaging
+- Wall Picking
+- And many more small Key Features like: Object Agnostic, No-Fixture Grasping, Precise Placement, Instant Changeover, Fast Cycle Times, Robust & Adaptable.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* The companies inteded customer ranges in different industries. There primarily focuses is developing artificial intelligence technologies, particularly in the realm of machine learning and robotics. Some of those industries are: Manufacturing & Automation, Logistics & Supply Chain, Finance & Investment, and many more. The market size is large companies with a lot of manufacturing and packaing needs.  
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The amount of personalization that Vicarious offers that other AI companies don't offer is what stands out the most. Vicarious is always working on custom partnerships such as truck unloading, heterogeneous parcel handling, manufacturing and warehousing, assembly, machine-tending, and more. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* On the comapies website, they have a statement on the technology thtat they use: "Vicarious was built on the premise that differentiated AI is needed to solve real-world manipulation tasks: our approach augments “classic” machine learning techniques with proprietary neuroscience-based AI in order to create machines that, like a child’s brain, learns fast and develop a model of the world along the way."
 
 ## Landscape
 
-* What field is the company in?
+* There mainly in the feild of artificial intelligence technologies, particularly in the realm of machine learning and robotics.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* 10 years ago, the concept of AI was very unknown, especially to the majority of the public. When ChatGPT came out is when everyone knew that AI can be a huge relolution. Over the last 2 to 3 years is when AI really took off and it's been improving constantly. 
 
-* What are the other major companies in this field?
+* Major companies in this feild are:
+1. Lucid PIx
+2. NVIDIA Corporation
+3. ArchForm
+4. PIX Moving
+5. Mixed Dimensions Inc
+6. DreamVu
+7. Kuleana
+8. STEREOLABS
 
 ## Results
 
-* What has been the business impact of this company so far?
+* I think the biggest busniess impact that Vicarious AI has had is Smart Warehousing. Major benefits of this is:
+- Reducing Human Error
+- Better Inventory Management
+- Cost Efficiency
+- Faster and More Efficient Order Fulfillment Process
+* By 2026, the smart warehousing market is predicted to grow from $15 billion to over $25 billion. Already, more than 200,000 warehouse robots have been used by Amazon. Big and small companies alike are making the switch to smart warehouses.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* I would say that some core metrics to measure success in this feild are revenue, funding, and innovation are some of the key metrics for measuring success. Vicarious AI is at the top of the chart when it comes to those metrics with over $250M in funding from investors, $9M in revenue, and one of the most inovvated AI companies we've seens to date. 
 
-* How is your company performing relative to competitors in the same field?
+* In terms of revenue, excluding NVIDIA, Vicarious has $9M in revenue, out performing all the other AI Companies. The next AI company that has a decent amount of revenue is PIX Moving at $6.4M in revenue. Vicarious AI is a top competitor in the field. 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If I'm being honest I think that Vicarious AI is offering all the products and services that they have to. They are doing every correctly in my opintion. They only thing they can offer that they aren't promoting is personal AI assistant for people to use on a daily basis but there are a lot of but companies doing that like Amazon, Google, and Apple so it would be unnecessary. 
 
-* Why do you think that offering this product or service would benefit the company?
+* It can just expand their product line but like I said I don't think it would be a huge benefit for the company. 
 
-* What technologies would this additional product or service utilize?
+* AI Assistants leverage advanced AI technologies including Natural Language Processing, Machine Learning, and Large Language Models.
 
-* Why are these technologies appropriate for your solution?
+* For the AI Assistants to be the most accurate and efficient, they need the technologies to do that. 
